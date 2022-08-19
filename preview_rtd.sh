@@ -1,0 +1,1 @@
+sphinx-build -b html docs/rtd rtf_preview
