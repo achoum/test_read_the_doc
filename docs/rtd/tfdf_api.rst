@@ -9,7 +9,7 @@ autosummary 2
 
     tensorflow_decision_forests
 
-..
+.. 
     :template: custom-module-template.rst
 
 automodule
