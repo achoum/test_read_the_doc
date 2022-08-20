@@ -6,11 +6,9 @@ autosummary 2
 .. autosummary::
     :toctree: _autosummary
     :recursive:
+    :template: custom-module-template.rst
 
     tensorflow_decision_forests
-
-.. 
-    :template: custom-module-template.rst
 
 automodule
 
