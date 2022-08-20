@@ -13,11 +13,34 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
+Providers
+==============
+
+hello
+
 Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: TFDF
+
+   tfdf_example
+   tfdf_api
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Basic
 
    usage
    api
-   tfdf
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Test
+
+   test
+   test2
